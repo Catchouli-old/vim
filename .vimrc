@@ -6,6 +6,9 @@ filetype plugin indent on
 set tabstop=2
 set shiftwidth=2
 set expandtab
+set nosmarttab
+
+set wildmode=list:longest,full
 
 let g:ctrlp_clear_cache_on_exit=0
 
@@ -25,6 +28,8 @@ set number
 
 set list
 set listchars=tab:->
+
+set guifont=Consolas
 
 set hlsearch
 
