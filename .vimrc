@@ -35,5 +35,4 @@ set hlsearch
 
 autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
-:command! B !devenv "C:\Users\c.wilks\Documents\bin\visionaryrender.sln" /build Release /project visren-app
-
+nmap <Space> i_<Esc>r
