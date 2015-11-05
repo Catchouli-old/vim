@@ -1,0 +1,3 @@
+[submodule "bundle/conqueterm-vim"]
+	path = bundle/conqueterm-vim
+	url = https://github.com/pthrasher/conqueterm-vim
