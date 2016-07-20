@@ -79,5 +79,5 @@ endfunction
 
 
 nmap <silent> --h gg"=HaskellModuleHeader()<CR>:0put =<CR>k$
-nmap <silent> --t O<Esc>O<Esc>o-- | 
+nmap <silent> --t O<Esc>O<Esc>o-- \| 
 
